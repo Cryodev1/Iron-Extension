@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Cryo Extension",
+    "description": "I made an extension because why not",
+    "version": "1.0",
+    "action": {
+      "default_popup": "hello.html",
+      "default_icon": "hi.png"
+    },
+    "permissions": [
+        "tabs",
+        "activeTab"
+    ]
+  }
